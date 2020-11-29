@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a7e9bee-c66e-4645-b000-7e3ccefbcb74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\HASEE\Desktop\git\test\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1kyBR0LBKd4puNS06armHeY6Orx" />
   <component name="ProjectViewState">
@@ -15,5 +29,56 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a7e9bee-c66e-4645-b000-7e3ccefbcb74" name="Default Changelist" comment="" />
+      <created>1606662938204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606662938204</updated>
+      <workItem from="1606662940308" duration="285000" />
+    </task>
+    <task id="LOCAL-00001" summary="lalala">
+      <created>1606663075195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663075195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lalala" />
+    <option name="LAST_COMMIT_MESSAGE" value="lalala" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="43" key="CommitChangelistDialog2" timestamp="1606663074332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606663074332" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1606663125699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606663125699" />
   </component>
 </project>
